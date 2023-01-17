@@ -3,6 +3,9 @@
 <h1>What This Script Does?</h1>
 <p>This allows you to pick an item from a site online and check when the price is at a certain price point. If the item hits the target price, the script automatically buys the item (In this case I stopped the script right after getting to the checkout stage). Then the script sends you an SMS confirmation when the item is bought.</p>
 
+![image](https://user-images.githubusercontent.com/91673777/212993808-432299b3-93c1-45c7-a0fa-1ec3d165312e.png)
+
+
 <h1>Future Ideas</h1>
 <ul>
 
